@@ -1,7 +1,7 @@
 # vasco-bingo
 Bingo game using Vue Cli 3
 
-You can check a live version in here: [GitHub Pages](http://bingo.vascoframework.es/). 
+You can check a live version in here: [Live version](http://bingo.vascoframework.es/). 
 **Only support 1080p resolution.**
 
 ## Project setup
